@@ -1,0 +1,112 @@
+/* border @px solid "color"/*
+/* -GLOBAL- */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Aboreto', cursive;
+}
+
+body{
+    height: 100%;
+    margin: 0%;
+    background-image: url("a.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(145, 113, 28, 0.493);
+    font-family: 'roboto', sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+#titulo{
+    font-family: 'Roboto Serif', serif;
+    padding: 0px;
+    color: rgba(131, 21, 21, 0.664);
+}
+
+/* Fonts */
+h1, h2, h3, .price {
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    color: #2D2C2A;
+}
+
+h2{
+    background-color: #fed7aa86;
+    margin-bottom: 18px;
+    text-align: center;
+}
+
+h3{
+    margin-top: 8px;
+    margin-bottom: 9px;
+}
+
+/* Header */
+header{
+    padding: 35px;
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+/* Section */
+section{
+    background-color: #c0ad44b6;
+    max-width: 350px;
+    margin: 0 auto;
+    border: 0px solid green;
+    padding: 35px;
+}
+
+#rodape{
+    text-align: center;
+    font-size: 13px;
+    padding: 50px;
+  }
+
+
+/* ID - Span */
+span{
+    border: 0px solid red;
+}
+
+#cafe{
+    padding-left: 167px;    
+}
+
+#chocolate{
+    padding-left: 83px;
+}
+
+#pao{
+    padding-left: 88px;
+}
+
+#misto{
+    padding-left: 141px;
+}
+
+#sanduba{
+    padding-left: 197px
+}
+
+#cox1{
+    padding-left: 116px;
+}
+
+#cox2{
+    padding-left: 100px
+}
+
+#pastel{
+    padding-left: 216px
+}
+
+#torta{
+    padding-left: 119px
+}
